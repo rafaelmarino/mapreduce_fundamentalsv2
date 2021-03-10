@@ -1,0 +1,8 @@
+In this exercise we found hits (rows) that are clearly not "files" 
+(eg "GET /about_us.html HTTP/1.1")
+Therefore we created a basic definition of file that can be easily modified depending on need/context. 
+The definition we used is that files are paths that contain the following strings:
+
+file_extensions = ['.css', '.js', '.jpg', '.jpeg', '.gif', '.txt', '.ico']
+
+Lines without any such extension are filtered out by q02a_mapper.py

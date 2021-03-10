@@ -1,0 +1,1 @@
+cat Data/purchases.txt | python q01a_mapper.py | sort | python q01a_reducer.py

@@ -1,0 +1,1 @@
+cat Data/forum_node.tsv | python q03c_mapper.py | sort | python q03c_reducer.py

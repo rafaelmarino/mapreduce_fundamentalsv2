@@ -1,0 +1,1 @@
+cat Data/access_log | python q02a_mapper.py | sort | python q02a_reducer.py

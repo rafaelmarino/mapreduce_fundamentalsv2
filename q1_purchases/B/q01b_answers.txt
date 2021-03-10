@@ -1,0 +1,1854 @@
+Albuquerque	Baby	553553.22
+Albuquerque	Books	560886.09
+Albuquerque	Cameras	562040.14
+Albuquerque	CDs	542864.77
+Albuquerque	Children's Clothing	579902.1
+Albuquerque	Computers	554430.08
+Albuquerque	Consumer Electronics	564644.96
+Albuquerque	Crafts	543748.62
+Albuquerque	DVDs	572231.96
+Albuquerque	Garden	554260.67
+Albuquerque	Health and Beauty	572249.08
+Albuquerque	Men's Clothing	571321.4
+Albuquerque	Music	548346.32
+Albuquerque	Pet Supplies	552827.9
+Albuquerque	Sporting Goods	574477.25
+Albuquerque	Toys	531882.44
+Albuquerque	Video Games	541523.16
+Albuquerque	Women's Clothing	571121.26
+Anaheim	Baby	566991.93
+Anaheim	Books	573009.6
+Anaheim	Cameras	567528.35
+Anaheim	CDs	546127.08
+Anaheim	Children's Clothing	556514.6
+Anaheim	Computers	543972.79
+Anaheim	Consumer Electronics	562217.28
+Anaheim	Crafts	559371.86
+Anaheim	DVDs	557660.33
+Anaheim	Garden	563043.13
+Anaheim	Health and Beauty	549948.96
+Anaheim	Men's Clothing	566393.53
+Anaheim	Music	582258.76
+Anaheim	Pet Supplies	554217.59
+Anaheim	Sporting Goods	557594.6
+Anaheim	Toys	579332.87
+Anaheim	Video Games	532650.23
+Anaheim	Women's Clothing	557582.87
+Anchorage	Baby	582424.49
+Anchorage	Books	549279.58
+Anchorage	Cameras	565648.38
+Anchorage	CDs	546278.9
+Anchorage	Children's Clothing	539676.09
+Anchorage	Computers	559876.24
+Anchorage	Consumer Electronics	542759.96
+Anchorage	Crafts	540391.83
+Anchorage	DVDs	556946.32
+Anchorage	Garden	555436.6
+Anchorage	Health and Beauty	545002.34
+Anchorage	Men's Clothing	540240.67
+Anchorage	Music	560784.07
+Anchorage	Pet Supplies	541440.35
+Anchorage	Sporting Goods	546358.38
+Anchorage	Toys	537855.95
+Anchorage	Video Games	553823.12
+Anchorage	Women's Clothing	569277.13
+Arlington	Baby	554970.73
+Arlington	Books	568325.32
+Arlington	Cameras	567089.15
+Arlington	CDs	543035.4
+Arlington	Children's Clothing	552209.46
+Arlington	Computers	558500.1
+Arlington	Consumer Electronics	556422.27
+Arlington	Crafts	572187.12
+Arlington	DVDs	550902.52
+Arlington	Garden	556193.48
+Arlington	Health and Beauty	574956.73
+Arlington	Men's Clothing	538743.92
+Arlington	Music	560590.32
+Arlington	Pet Supplies	577449.8
+Arlington	Sporting Goods	569845.16
+Arlington	Toys	539259.17
+Arlington	Video Games	589641.78
+Arlington	Women's Clothing	541885.54
+Atlanta	Baby	567785.78
+Atlanta	Books	535164.66
+Atlanta	Cameras	556755.85
+Atlanta	CDs	558440.56
+Atlanta	Children's Clothing	569591.39
+Atlanta	Computers	534529.66
+Atlanta	Consumer Electronics	561753.39
+Atlanta	Crafts	566942.2
+Atlanta	DVDs	541699.9
+Atlanta	Garden	578389.73
+Atlanta	Health and Beauty	542852.25
+Atlanta	Men's Clothing	539178.53
+Atlanta	Music	571669.74
+Atlanta	Pet Supplies	529807.46
+Atlanta	Sporting Goods	563999.97
+Atlanta	Toys	561951.21
+Atlanta	Video Games	539340.36
+Atlanta	Women's Clothing	577294.06
+Aurora	Baby	554409.47
+Aurora	Books	539560.7
+Aurora	Cameras	559198.23
+Aurora	CDs	541486.33
+Aurora	Children's Clothing	566000.66
+Aurora	Computers	521396.68
+Aurora	Consumer Electronics	550077.59
+Aurora	Crafts	560495.85
+Aurora	DVDs	558428.98
+Aurora	Garden	554993.04
+Aurora	Health and Beauty	552101.03
+Aurora	Men's Clothing	561999.32
+Aurora	Music	561559.54
+Aurora	Pet Supplies	564544.93
+Aurora	Sporting Goods	555477.92
+Aurora	Toys	573050.54
+Aurora	Video Games	566665.04
+Aurora	Women's Clothing	551525.07
+Austin	Baby	585991.83
+Austin	Books	570075.01
+Austin	Cameras	551863.0
+Austin	CDs	554211.36
+Austin	Children's Clothing	548357.06
+Austin	Computers	551968.28
+Austin	Consumer Electronics	546176.94
+Austin	Crafts	545043.39
+Austin	DVDs	584048.29
+Austin	Garden	582794.65
+Austin	Health and Beauty	562884.38
+Austin	Men's Clothing	547519.63
+Austin	Music	565228.26
+Austin	Pet Supplies	573885.01
+Austin	Sporting Goods	537917.35
+Austin	Toys	530372.38
+Austin	Video Games	559690.73
+Austin	Women's Clothing	559131.35
+Bakersfield	Baby	542791.04
+Bakersfield	Books	562747.96
+Bakersfield	Cameras	547924.48
+Bakersfield	CDs	547369.83
+Bakersfield	Children's Clothing	574959.18
+Bakersfield	Computers	547723.82
+Bakersfield	Consumer Electronics	564311.62
+Bakersfield	Crafts	571682.91
+Bakersfield	DVDs	546577.53
+Bakersfield	Garden	562643.74
+Bakersfield	Health and Beauty	547603.83
+Bakersfield	Men's Clothing	543773.86
+Bakersfield	Music	566414.35
+Bakersfield	Pet Supplies	537498.77
+Bakersfield	Sporting Goods	549894.82
+Bakersfield	Toys	577685.61
+Bakersfield	Video Games	582554.84
+Bakersfield	Women's Clothing	557050.73
+Baltimore	Baby	572761.39
+Baltimore	Books	545042.43
+Baltimore	Cameras	551584.48
+Baltimore	CDs	542283.39
+Baltimore	Children's Clothing	555103.26
+Baltimore	Computers	578531.42
+Baltimore	Consumer Electronics	570455.2
+Baltimore	Crafts	544047.44
+Baltimore	DVDs	550997.15
+Baltimore	Garden	567298.8
+Baltimore	Health and Beauty	574355.14
+Baltimore	Men's Clothing	546987.5
+Baltimore	Music	543575.64
+Baltimore	Pet Supplies	558657.16
+Baltimore	Sporting Goods	561671.26
+Baltimore	Toys	575937.15
+Baltimore	Video Games	579647.72
+Baltimore	Women's Clothing	577584.92
+Baton Rouge	Baby	567107.08
+Baton Rouge	Books	567660.61
+Baton Rouge	Cameras	568418.9
+Baton Rouge	CDs	576123.1
+Baton Rouge	Children's Clothing	574743.44
+Baton Rouge	Computers	555704.07
+Baton Rouge	Consumer Electronics	561183.04
+Baton Rouge	Crafts	527916.45
+Baton Rouge	DVDs	577792.68
+Baton Rouge	Garden	547491.53
+Baton Rouge	Health and Beauty	582348.81
+Baton Rouge	Men's Clothing	563814.17
+Baton Rouge	Music	545648.06
+Baton Rouge	Pet Supplies	564582.3
+Baton Rouge	Sporting Goods	572951.61
+Baton Rouge	Toys	563561.58
+Baton Rouge	Video Games	569675.6
+Baton Rouge	Women's Clothing	544550.2
+Birmingham	Baby	541342.43
+Birmingham	Books	562063.46
+Birmingham	Cameras	560734.8
+Birmingham	CDs	568934.93
+Birmingham	Children's Clothing	566280.47
+Birmingham	Computers	577197.59
+Birmingham	Consumer Electronics	559676.07
+Birmingham	Crafts	557718.6
+Birmingham	DVDs	572164.71
+Birmingham	Garden	542731.51
+Birmingham	Health and Beauty	556627.45
+Birmingham	Men's Clothing	555635.67
+Birmingham	Music	551924.17
+Birmingham	Pet Supplies	578423.06
+Birmingham	Sporting Goods	578601.78
+Birmingham	Toys	547493.28
+Birmingham	Video Games	538636.51
+Birmingham	Women's Clothing	560420.03
+Boise	Baby	553630.92
+Boise	Books	542050.06
+Boise	Cameras	550828.39
+Boise	CDs	574724.65
+Boise	Children's Clothing	560286.75
+Boise	Computers	547830.58
+Boise	Consumer Electronics	567449.47
+Boise	Crafts	591205.25
+Boise	DVDs	545012.82
+Boise	Garden	582684.18
+Boise	Health and Beauty	550880.96
+Boise	Men's Clothing	585786.82
+Boise	Music	560259.32
+Boise	Pet Supplies	533584.55
+Boise	Sporting Goods	549354.92
+Boise	Toys	538220.24
+Boise	Video Games	558187.37
+Boise	Women's Clothing	547189.49
+Boston	Baby	569991.31
+Boston	Books	573805.24
+Boston	Cameras	542756.44
+Boston	CDs	537042.47
+Boston	Children's Clothing	559621.59
+Boston	Computers	554479.5
+Boston	Consumer Electronics	562219.73
+Boston	Crafts	572451.88
+Boston	DVDs	552173.88
+Boston	Garden	536946.33
+Boston	Health and Beauty	568928.9
+Boston	Men's Clothing	583366.25
+Boston	Music	539552.68
+Boston	Pet Supplies	534289.59
+Boston	Sporting Goods	553099.04
+Boston	Toys	561519.26
+Boston	Video Games	569606.97
+Boston	Women's Clothing	567622.22
+Buffalo	Baby	547746.7
+Buffalo	Books	572264.48
+Buffalo	Cameras	561152.26
+Buffalo	CDs	562468.02
+Buffalo	Children's Clothing	578793.23
+Buffalo	Computers	541600.58
+Buffalo	Consumer Electronics	550535.71
+Buffalo	Crafts	576142.59
+Buffalo	DVDs	585154.96
+Buffalo	Garden	559187.15
+Buffalo	Health and Beauty	541090.52
+Buffalo	Men's Clothing	546923.15
+Buffalo	Music	564653.39
+Buffalo	Pet Supplies	538175.97
+Buffalo	Sporting Goods	536166.38
+Buffalo	Toys	557215.47
+Buffalo	Video Games	556798.88
+Buffalo	Women's Clothing	525871.75
+Chandler	Baby	548142.28
+Chandler	Books	549141.94
+Chandler	Cameras	521915.95
+Chandler	CDs	522637.06
+Chandler	Children's Clothing	559512.46
+Chandler	Computers	547630.73
+Chandler	Consumer Electronics	541225.01
+Chandler	Crafts	561205.83
+Chandler	DVDs	566320.59
+Chandler	Garden	548692.63
+Chandler	Health and Beauty	553173.74
+Chandler	Men's Clothing	559249.17
+Chandler	Music	555061.72
+Chandler	Pet Supplies	558969.27
+Chandler	Sporting Goods	554133.04
+Chandler	Toys	569292.99
+Chandler	Video Games	549329.45
+Chandler	Women's Clothing	553926.0
+Charlotte	Baby	575057.37
+Charlotte	Books	547794.08
+Charlotte	Cameras	566005.43
+Charlotte	CDs	569591.42
+Charlotte	Children's Clothing	549171.88
+Charlotte	Computers	574085.4
+Charlotte	Consumer Electronics	546267.35
+Charlotte	Crafts	566231.71
+Charlotte	DVDs	574625.18
+Charlotte	Garden	566906.96
+Charlotte	Health and Beauty	547280.57
+Charlotte	Men's Clothing	543749.21
+Charlotte	Music	565206.45
+Charlotte	Pet Supplies	578790.24
+Charlotte	Sporting Goods	556171.53
+Charlotte	Toys	563146.66
+Charlotte	Video Games	546044.71
+Charlotte	Women's Clothing	576405.19
+Chesapeake	Baby	549342.62
+Chesapeake	Books	548993.01
+Chesapeake	Cameras	552622.55
+Chesapeake	CDs	579290.13
+Chesapeake	Children's Clothing	551330.94
+Chesapeake	Computers	580986.83
+Chesapeake	Consumer Electronics	551727.46
+Chesapeake	Crafts	541432.81
+Chesapeake	DVDs	554105.44
+Chesapeake	Garden	550891.83
+Chesapeake	Health and Beauty	564501.37
+Chesapeake	Men's Clothing	574134.51
+Chesapeake	Music	559219.48
+Chesapeake	Pet Supplies	551617.13
+Chesapeake	Sporting Goods	565593.03
+Chesapeake	Toys	549386.9
+Chesapeake	Video Games	553431.72
+Chesapeake	Women's Clothing	559897.16
+Chicago	Baby	534336.01
+Chicago	Books	553118.85
+Chicago	Cameras	552648.83
+Chicago	CDs	568351.95
+Chicago	Children's Clothing	538843.53
+Chicago	Computers	560917.57
+Chicago	Consumer Electronics	569296.97
+Chicago	Crafts	576452.52
+Chicago	DVDs	567025.94
+Chicago	Garden	550878.16
+Chicago	Health and Beauty	567766.9
+Chicago	Men's Clothing	583207.43
+Chicago	Music	548136.67
+Chicago	Pet Supplies	565233.3
+Chicago	Sporting Goods	557669.48
+Chicago	Toys	552802.53
+Chicago	Video Games	543259.93
+Chicago	Women's Clothing	572575.5
+Chula Vista	Baby	539967.3
+Chula Vista	Books	546040.09
+Chula Vista	Cameras	542755.89
+Chula Vista	CDs	544110.97
+Chula Vista	Children's Clothing	560832.55
+Chula Vista	Computers	568935.51
+Chula Vista	Consumer Electronics	559215.25
+Chula Vista	Crafts	554518.74
+Chula Vista	DVDs	560953.4
+Chula Vista	Garden	554438.06
+Chula Vista	Health and Beauty	546993.83
+Chula Vista	Men's Clothing	578946.49
+Chula Vista	Music	537805.91
+Chula Vista	Pet Supplies	545938.15
+Chula Vista	Sporting Goods	562735.99
+Chula Vista	Toys	568436.16
+Chula Vista	Video Games	565116.36
+Chula Vista	Women's Clothing	537210.69
+Cincinnati	Baby	540920.63
+Cincinnati	Books	572152.01
+Cincinnati	Cameras	538784.68
+Cincinnati	CDs	577837.91
+Cincinnati	Children's Clothing	571934.68
+Cincinnati	Computers	547416.25
+Cincinnati	Consumer Electronics	585448.91
+Cincinnati	Crafts	567722.95
+Cincinnati	DVDs	565566.25
+Cincinnati	Garden	569837.83
+Cincinnati	Health and Beauty	556109.02
+Cincinnati	Men's Clothing	554812.65
+Cincinnati	Music	573560.68
+Cincinnati	Pet Supplies	556463.91
+Cincinnati	Sporting Goods	553557.59
+Cincinnati	Toys	597884.34
+Cincinnati	Video Games	556665.49
+Cincinnati	Women's Clothing	552829.96
+Cleveland	Baby	581082.2
+Cleveland	Books	563169.11
+Cleveland	Cameras	555029.48
+Cleveland	CDs	555197.98
+Cleveland	Children's Clothing	588268.49
+Cleveland	Computers	536491.16
+Cleveland	Consumer Electronics	553745.85
+Cleveland	Crafts	532679.3
+Cleveland	DVDs	572952.56
+Cleveland	Garden	574313.64
+Cleveland	Health and Beauty	561091.41
+Cleveland	Men's Clothing	544904.8
+Cleveland	Music	565335.0
+Cleveland	Pet Supplies	562823.31
+Cleveland	Sporting Goods	543725.16
+Cleveland	Toys	552543.93
+Cleveland	Video Games	567155.91
+Cleveland	Women's Clothing	557326.55
+Colorado Springs	Baby	552604.99
+Colorado Springs	Books	570020.81
+Colorado Springs	Cameras	559407.65
+Colorado Springs	CDs	559732.86
+Colorado Springs	Children's Clothing	552417.14
+Colorado Springs	Computers	558554.59
+Colorado Springs	Consumer Electronics	554547.18
+Colorado Springs	Crafts	558824.6
+Colorado Springs	DVDs	568334.25
+Colorado Springs	Garden	566294.75
+Colorado Springs	Health and Beauty	551207.86
+Colorado Springs	Men's Clothing	567297.4
+Colorado Springs	Music	547915.17
+Colorado Springs	Pet Supplies	555898.57
+Colorado Springs	Sporting Goods	569309.99
+Colorado Springs	Toys	560458.11
+Colorado Springs	Video Games	531372.68
+Colorado Springs	Women's Clothing	576907.27
+Columbus	Baby	550522.32
+Columbus	Books	552373.76
+Columbus	Cameras	548671.2
+Columbus	CDs	555969.47
+Columbus	Children's Clothing	555408.22
+Columbus	Computers	569591.48
+Columbus	Consumer Electronics	534314.85
+Columbus	Crafts	562083.79
+Columbus	DVDs	554444.89
+Columbus	Garden	561662.01
+Columbus	Health and Beauty	576883.05
+Columbus	Men's Clothing	564940.55
+Columbus	Music	561649.76
+Columbus	Pet Supplies	561145.2
+Columbus	Sporting Goods	555679.47
+Columbus	Toys	543629.84
+Columbus	Video Games	575788.94
+Columbus	Women's Clothing	550482.23
+Corpus Christi	Baby	577995.21
+Corpus Christi	Books	550031.94
+Corpus Christi	Cameras	575697.99
+Corpus Christi	CDs	560990.44
+Corpus Christi	Children's Clothing	528600.71
+Corpus Christi	Computers	548290.15
+Corpus Christi	Consumer Electronics	551104.49
+Corpus Christi	Crafts	558915.46
+Corpus Christi	DVDs	548611.03
+Corpus Christi	Garden	527638.16
+Corpus Christi	Health and Beauty	552693.44
+Corpus Christi	Men's Clothing	571594.92
+Corpus Christi	Music	548343.86
+Corpus Christi	Pet Supplies	543862.95
+Corpus Christi	Sporting Goods	552019.84
+Corpus Christi	Toys	549262.68
+Corpus Christi	Video Games	567759.44
+Corpus Christi	Women's Clothing	563110.06
+Dallas	Baby	545088.98
+Dallas	Books	556000.66
+Dallas	Cameras	559469.62
+Dallas	CDs	593825.12
+Dallas	Children's Clothing	556924.69
+Dallas	Computers	554228.48
+Dallas	Consumer Electronics	542958.24
+Dallas	Crafts	559287.85
+Dallas	DVDs	562568.39
+Dallas	Garden	564619.9
+Dallas	Health and Beauty	560061.23
+Dallas	Men's Clothing	546230.51
+Dallas	Music	571681.19
+Dallas	Pet Supplies	574072.5
+Dallas	Sporting Goods	554799.41
+Dallas	Toys	562775.26
+Dallas	Video Games	540711.59
+Dallas	Women's Clothing	561244.83
+Denver	Baby	560896.24
+Denver	Books	557042.88
+Denver	Cameras	562952.09
+Denver	CDs	568558.89
+Denver	Children's Clothing	570182.27
+Denver	Computers	582945.81
+Denver	Consumer Electronics	563674.78
+Denver	Crafts	568348.66
+Denver	DVDs	536188.0
+Denver	Garden	555926.18
+Denver	Health and Beauty	560724.17
+Denver	Men's Clothing	573702.62
+Denver	Music	540430.0
+Denver	Pet Supplies	539612.28
+Denver	Sporting Goods	536084.86
+Denver	Toys	537470.61
+Denver	Video Games	556057.56
+Denver	Women's Clothing	560736.97
+Detroit	Baby	581837.6
+Detroit	Books	543352.39
+Detroit	Cameras	573972.38
+Detroit	CDs	563579.95
+Detroit	Children's Clothing	573554.05
+Detroit	Computers	530334.77
+Detroit	Consumer Electronics	525060.94
+Detroit	Crafts	545406.2
+Detroit	DVDs	538787.64
+Detroit	Garden	566996.84
+Detroit	Health and Beauty	539009.36
+Detroit	Men's Clothing	568635.88
+Detroit	Music	557463.44
+Detroit	Pet Supplies	547130.21
+Detroit	Sporting Goods	569477.11
+Detroit	Toys	537403.15
+Detroit	Video Games	573670.13
+Detroit	Women's Clothing	543588.72
+Durham	Baby	535309.11
+Durham	Books	579118.9
+Durham	Cameras	560342.34
+Durham	CDs	568972.01
+Durham	Children's Clothing	563462.14
+Durham	Computers	562244.39
+Durham	Consumer Electronics	553196.31
+Durham	Crafts	553803.52
+Durham	DVDs	593258.3
+Durham	Garden	563939.04
+Durham	Health and Beauty	569467.66
+Durham	Men's Clothing	559656.65
+Durham	Music	546589.42
+Durham	Pet Supplies	569355.74
+Durham	Sporting Goods	586403.71
+Durham	Toys	558558.07
+Durham	Video Games	563656.46
+Durham	Women's Clothing	566556.44
+El Paso	Baby	535362.04
+El Paso	Books	541658.67
+El Paso	Cameras	581664.08
+El Paso	CDs	547977.57
+El Paso	Children's Clothing	563864.74
+El Paso	Computers	558218.61
+El Paso	Consumer Electronics	580190.07
+El Paso	Crafts	539639.5
+El Paso	DVDs	570826.39
+El Paso	Garden	565643.81
+El Paso	Health and Beauty	535238.32
+El Paso	Men's Clothing	553316.9
+El Paso	Music	557797.41
+El Paso	Pet Supplies	567838.53
+El Paso	Sporting Goods	534380.67
+El Paso	Toys	578149.29
+El Paso	Video Games	543125.13
+El Paso	Women's Clothing	561518.24
+Fort Wayne	Baby	571473.85
+Fort Wayne	Books	555677.04
+Fort Wayne	Cameras	529712.81
+Fort Wayne	CDs	538668.24
+Fort Wayne	Children's Clothing	550441.13
+Fort Wayne	Computers	565522.69
+Fort Wayne	Consumer Electronics	581022.34
+Fort Wayne	Crafts	569436.45
+Fort Wayne	DVDs	561122.64
+Fort Wayne	Garden	579055.92
+Fort Wayne	Health and Beauty	576519.42
+Fort Wayne	Men's Clothing	582302.03
+Fort Wayne	Music	574833.48
+Fort Wayne	Pet Supplies	560785.34
+Fort Wayne	Sporting Goods	560425.49
+Fort Wayne	Toys	550230.94
+Fort Wayne	Video Games	570796.13
+Fort Wayne	Women's Clothing	554568.08
+Fort Worth	Baby	546748.27
+Fort Worth	Books	551811.02
+Fort Worth	Cameras	531137.09
+Fort Worth	CDs	544073.86
+Fort Worth	Children's Clothing	537431.21
+Fort Worth	Computers	555770.66
+Fort Worth	Consumer Electronics	572957.59
+Fort Worth	Crafts	577020.5
+Fort Worth	DVDs	549741.77
+Fort Worth	Garden	587292.21
+Fort Worth	Health and Beauty	544752.35
+Fort Worth	Men's Clothing	580555.18
+Fort Worth	Music	580160.83
+Fort Worth	Pet Supplies	594698.4
+Fort Worth	Sporting Goods	536850.35
+Fort Worth	Toys	590021.57
+Fort Worth	Video Games	572824.4
+Fort Worth	Women's Clothing	566983.39
+Fremont	Baby	536414.19
+Fremont	Books	566771.21
+Fremont	Cameras	564426.45
+Fremont	CDs	553997.53
+Fremont	Children's Clothing	563040.4
+Fremont	Computers	552692.21
+Fremont	Consumer Electronics	572569.42
+Fremont	Crafts	564169.96
+Fremont	DVDs	556915.14
+Fremont	Garden	551498.65
+Fremont	Health and Beauty	574572.45
+Fremont	Men's Clothing	560282.18
+Fremont	Music	550549.11
+Fremont	Pet Supplies	570730.4
+Fremont	Sporting Goods	544994.41
+Fremont	Toys	571264.84
+Fremont	Video Games	561204.82
+Fremont	Women's Clothing	537148.99
+Fresno	Baby	544236.91
+Fresno	Books	560199.73
+Fresno	Cameras	540971.07
+Fresno	CDs	576945.08
+Fresno	Children's Clothing	557181.08
+Fresno	Computers	540878.6
+Fresno	Consumer Electronics	562273.67
+Fresno	Crafts	555402.32
+Fresno	DVDs	570800.51
+Fresno	Garden	570490.9
+Fresno	Health and Beauty	557117.23
+Fresno	Men's Clothing	538118.19
+Fresno	Music	580202.06
+Fresno	Pet Supplies	537961.3
+Fresno	Sporting Goods	552436.27
+Fresno	Toys	533550.34
+Fresno	Video Games	549459.86
+Fresno	Women's Clothing	548035.14
+Garland	Baby	552952.85
+Garland	Books	583027.92
+Garland	Cameras	551609.9
+Garland	CDs	549610.3
+Garland	Children's Clothing	539809.44
+Garland	Computers	571032.55
+Garland	Consumer Electronics	539889.28
+Garland	Crafts	572377.68
+Garland	DVDs	571445.27
+Garland	Garden	545605.89
+Garland	Health and Beauty	552989.79
+Garland	Men's Clothing	556860.98
+Garland	Music	560622.98
+Garland	Pet Supplies	560042.54
+Garland	Sporting Goods	564265.47
+Garland	Toys	568905.21
+Garland	Video Games	550391.79
+Garland	Women's Clothing	579604.08
+Gilbert	Baby	555609.46
+Gilbert	Books	575693.82
+Gilbert	Cameras	559722.12
+Gilbert	CDs	539265.31
+Gilbert	Children's Clothing	567761.35
+Gilbert	Computers	551490.51
+Gilbert	Consumer Electronics	552274.46
+Gilbert	Crafts	571201.48
+Gilbert	DVDs	537313.59
+Gilbert	Garden	553644.4
+Gilbert	Health and Beauty	546374.97
+Gilbert	Men's Clothing	559775.25
+Gilbert	Music	567154.33
+Gilbert	Pet Supplies	545004.4
+Gilbert	Sporting Goods	567129.68
+Gilbert	Toys	560504.38
+Gilbert	Video Games	572582.34
+Gilbert	Women's Clothing	579613.34
+Glendale	Baby	562047.97
+Glendale	Books	558847.8
+Glendale	Cameras	540044.87
+Glendale	CDs	562125.48
+Glendale	Children's Clothing	551941.23
+Glendale	Computers	554603.82
+Glendale	Consumer Electronics	568124.25
+Glendale	Crafts	563570.0
+Glendale	DVDs	579090.16
+Glendale	Garden	562378.67
+Glendale	Health and Beauty	565003.05
+Glendale	Men's Clothing	555189.26
+Glendale	Music	562070.84
+Glendale	Pet Supplies	557659.99
+Glendale	Sporting Goods	550836.61
+Glendale	Toys	538168.01
+Glendale	Video Games	568147.61
+Glendale	Women's Clothing	544644.35
+Greensboro	Baby	528811.42
+Greensboro	Books	565729.78
+Greensboro	Cameras	572417.85
+Greensboro	CDs	561391.77
+Greensboro	Children's Clothing	548916.95
+Greensboro	Computers	574168.18
+Greensboro	Consumer Electronics	561814.57
+Greensboro	Crafts	565271.78
+Greensboro	DVDs	565066.31
+Greensboro	Garden	560535.9
+Greensboro	Health and Beauty	554978.7
+Greensboro	Men's Clothing	540847.08
+Greensboro	Music	553171.16
+Greensboro	Pet Supplies	536544.39
+Greensboro	Sporting Goods	556050.54
+Greensboro	Toys	548782.44
+Greensboro	Video Games	576377.26
+Greensboro	Women's Clothing	562905.31
+Henderson	Baby	581941.05
+Henderson	Books	539291.28
+Henderson	Cameras	568046.03
+Henderson	CDs	554504.91
+Henderson	Children's Clothing	582336.29
+Henderson	Computers	569201.88
+Henderson	Consumer Electronics	571419.99
+Henderson	Crafts	568913.47
+Henderson	DVDs	564868.54
+Henderson	Garden	567135.18
+Henderson	Health and Beauty	545400.77
+Henderson	Men's Clothing	559386.62
+Henderson	Music	566397.96
+Henderson	Pet Supplies	554612.5
+Henderson	Sporting Goods	559417.57
+Henderson	Toys	529454.15
+Henderson	Video Games	542958.62
+Henderson	Women's Clothing	528129.24
+Hialeah	Baby	558349.8
+Hialeah	Books	547430.57
+Hialeah	Cameras	558218.43
+Hialeah	CDs	583973.44
+Hialeah	Children's Clothing	559203.33
+Hialeah	Computers	575852.0
+Hialeah	Consumer Electronics	558070.31
+Hialeah	Crafts	566751.73
+Hialeah	DVDs	577893.79
+Hialeah	Garden	563075.66
+Hialeah	Health and Beauty	554434.1
+Hialeah	Men's Clothing	564062.63
+Hialeah	Music	531140.36
+Hialeah	Pet Supplies	557808.13
+Hialeah	Sporting Goods	550297.67
+Hialeah	Toys	543702.39
+Hialeah	Video Games	544937.88
+Hialeah	Women's Clothing	551850.54
+Honolulu	Baby	574444.7
+Honolulu	Books	560679.85
+Honolulu	Cameras	551392.75
+Honolulu	CDs	534973.54
+Honolulu	Children's Clothing	567364.78
+Honolulu	Computers	550228.89
+Honolulu	Consumer Electronics	547638.4
+Honolulu	Crafts	564367.68
+Honolulu	DVDs	540572.27
+Honolulu	Garden	561448.19
+Honolulu	Health and Beauty	547288.17
+Honolulu	Men's Clothing	546564.76
+Honolulu	Music	576221.89
+Honolulu	Pet Supplies	567274.3
+Honolulu	Sporting Goods	558303.95
+Honolulu	Toys	579084.76
+Honolulu	Video Games	538452.95
+Honolulu	Women's Clothing	539971.66
+Houston	Baby	552151.79
+Houston	Books	563838.72
+Houston	Cameras	558273.33
+Houston	CDs	549648.11
+Houston	Children's Clothing	569262.83
+Houston	Computers	559444.82
+Houston	Consumer Electronics	555180.3
+Houston	Crafts	566313.99
+Houston	DVDs	564625.77
+Houston	Garden	552007.4
+Houston	Health and Beauty	546296.28
+Houston	Men's Clothing	575703.72
+Houston	Music	563007.58
+Houston	Pet Supplies	541744.38
+Houston	Sporting Goods	565778.87
+Houston	Toys	558652.44
+Houston	Video Games	553147.17
+Houston	Women's Clothing	547028.77
+Indianapolis	Baby	549231.63
+Indianapolis	Books	582742.73
+Indianapolis	Cameras	552725.89
+Indianapolis	CDs	572676.81
+Indianapolis	Children's Clothing	545119.32
+Indianapolis	Computers	560813.37
+Indianapolis	Consumer Electronics	566090.33
+Indianapolis	Crafts	558328.08
+Indianapolis	DVDs	561361.92
+Indianapolis	Garden	550909.06
+Indianapolis	Health and Beauty	563380.77
+Indianapolis	Men's Clothing	599321.87
+Indianapolis	Music	569941.07
+Indianapolis	Pet Supplies	537554.07
+Indianapolis	Sporting Goods	535765.99
+Indianapolis	Toys	566919.82
+Indianapolis	Video Games	549088.69
+Indianapolis	Women's Clothing	568301.35
+Irvine	Baby	553186.85
+Irvine	Books	549224.13
+Irvine	Cameras	568247.72
+Irvine	CDs	553593.75
+Irvine	Children's Clothing	554951.48
+Irvine	Computers	562206.88
+Irvine	Consumer Electronics	583079.74
+Irvine	Crafts	550420.43
+Irvine	DVDs	556256.83
+Irvine	Garden	551987.04
+Irvine	Health and Beauty	561826.13
+Irvine	Men's Clothing	560559.19
+Irvine	Music	558919.22
+Irvine	Pet Supplies	579328.46
+Irvine	Sporting Goods	568045.85
+Irvine	Toys	550972.22
+Irvine	Video Games	572866.43
+Irvine	Women's Clothing	549195.1
+Irving	Baby	574943.42
+Irving	Books	561852.93
+Irving	Cameras	553039.4
+Irving	CDs	574859.75
+Irving	Children's Clothing	552915.1
+Irving	Computers	559028.12
+Irving	Consumer Electronics	576266.79
+Irving	Crafts	567650.73
+Irving	DVDs	581697.27
+Irving	Garden	569996.43
+Irving	Health and Beauty	551113.43
+Irving	Men's Clothing	553613.61
+Irving	Music	538665.56
+Irving	Pet Supplies	533620.44
+Irving	Sporting Goods	554944.56
+Irving	Toys	587674.75
+Irving	Video Games	566010.1
+Irving	Women's Clothing	576051.69
+Jacksonville	Baby	574534.2
+Jacksonville	Books	560847.64
+Jacksonville	Cameras	550735.75
+Jacksonville	CDs	566876.8
+Jacksonville	Children's Clothing	548892.66
+Jacksonville	Computers	546279.02
+Jacksonville	Consumer Electronics	575622.36
+Jacksonville	Crafts	563120.05
+Jacksonville	DVDs	561102.13
+Jacksonville	Garden	554532.13
+Jacksonville	Health and Beauty	552894.65
+Jacksonville	Men's Clothing	550305.55
+Jacksonville	Music	552606.78
+Jacksonville	Pet Supplies	539193.87
+Jacksonville	Sporting Goods	583145.03
+Jacksonville	Toys	549002.2
+Jacksonville	Video Games	563747.15
+Jacksonville	Women's Clothing	578565.36
+Jersey City	Baby	533261.11
+Jersey City	Books	541213.62
+Jersey City	Cameras	547291.98
+Jersey City	CDs	526873.19
+Jersey City	Children's Clothing	546059.66
+Jersey City	Computers	562631.94
+Jersey City	Consumer Electronics	538651.29
+Jersey City	Crafts	530712.4
+Jersey City	DVDs	559867.05
+Jersey City	Garden	588898.94
+Jersey City	Health and Beauty	565370.13
+Jersey City	Men's Clothing	572969.98
+Jersey City	Music	550452.1
+Jersey City	Pet Supplies	546125.28
+Jersey City	Sporting Goods	559912.61
+Jersey City	Toys	554757.74
+Jersey City	Video Games	546799.69
+Jersey City	Women's Clothing	548293.16
+Kansas City	Baby	557399.83
+Kansas City	Books	582097.92
+Kansas City	Cameras	562525.25
+Kansas City	CDs	552084.83
+Kansas City	Children's Clothing	538392.29
+Kansas City	Computers	516836.73
+Kansas City	Consumer Electronics	560231.74
+Kansas City	Crafts	562222.12
+Kansas City	DVDs	570742.85
+Kansas City	Garden	560129.5
+Kansas City	Health and Beauty	543573.44
+Kansas City	Men's Clothing	568279.52
+Kansas City	Music	549001.75
+Kansas City	Pet Supplies	544196.51
+Kansas City	Sporting Goods	554363.12
+Kansas City	Toys	547892.41
+Kansas City	Video Games	561736.58
+Kansas City	Women's Clothing	536412.34
+Laredo	Baby	547089.58
+Laredo	Books	562627.83
+Laredo	Cameras	563876.91
+Laredo	CDs	579131.65
+Laredo	Children's Clothing	559780.9
+Laredo	Computers	552902.4
+Laredo	Consumer Electronics	571590.83
+Laredo	Crafts	548359.54
+Laredo	DVDs	551641.96
+Laredo	Garden	566849.11
+Laredo	Health and Beauty	570328.86
+Laredo	Men's Clothing	555414.01
+Laredo	Music	586614.3
+Laredo	Pet Supplies	555648.26
+Laredo	Sporting Goods	551899.67
+Laredo	Toys	567760.35
+Laredo	Video Games	589975.4
+Laredo	Women's Clothing	563113.42
+Las Vegas	Baby	558327.38
+Las Vegas	Books	544906.24
+Las Vegas	Cameras	532623.14
+Las Vegas	CDs	543173.12
+Las Vegas	Children's Clothing	556036.28
+Las Vegas	Computers	549819.71
+Las Vegas	Consumer Electronics	568359.35
+Las Vegas	Crafts	536696.77
+Las Vegas	DVDs	567035.94
+Las Vegas	Garden	551311.76
+Las Vegas	Health and Beauty	573620.75
+Las Vegas	Men's Clothing	576799.67
+Las Vegas	Music	569090.66
+Las Vegas	Pet Supplies	546759.54
+Las Vegas	Sporting Goods	567233.07
+Las Vegas	Toys	577027.44
+Las Vegas	Video Games	561342.18
+Las Vegas	Women's Clothing	574094.98
+Lexington	Baby	570677.06
+Lexington	Books	543651.86
+Lexington	Cameras	551115.02
+Lexington	CDs	551017.71
+Lexington	Children's Clothing	547974.54
+Lexington	Computers	572296.29
+Lexington	Consumer Electronics	577941.95
+Lexington	Crafts	551579.77
+Lexington	DVDs	575654.13
+Lexington	Garden	557255.38
+Lexington	Health and Beauty	556422.03
+Lexington	Men's Clothing	573065.81
+Lexington	Music	561448.17
+Lexington	Pet Supplies	551245.56
+Lexington	Sporting Goods	561080.07
+Lexington	Toys	568682.43
+Lexington	Video Games	541684.91
+Lexington	Women's Clothing	571718.26
+Lincoln	Baby	554115.57
+Lincoln	Books	580395.73
+Lincoln	Cameras	559969.76
+Lincoln	CDs	574979.44
+Lincoln	Children's Clothing	579082.24
+Lincoln	Computers	570668.25
+Lincoln	Consumer Electronics	538142.16
+Lincoln	Crafts	547891.88
+Lincoln	DVDs	559605.98
+Lincoln	Garden	554977.08
+Lincoln	Health and Beauty	544011.98
+Lincoln	Men's Clothing	550405.28
+Lincoln	Music	540731.42
+Lincoln	Pet Supplies	553556.82
+Lincoln	Sporting Goods	561664.12
+Lincoln	Toys	572130.84
+Lincoln	Video Games	557073.84
+Lincoln	Women's Clothing	570083.01
+Long Beach	Baby	559512.6
+Long Beach	Books	568190.43
+Long Beach	Cameras	558559.21
+Long Beach	CDs	549146.44
+Long Beach	Children's Clothing	544991.73
+Long Beach	Computers	544781.6
+Long Beach	Consumer Electronics	552966.94
+Long Beach	Crafts	560668.55
+Long Beach	DVDs	546956.05
+Long Beach	Garden	582364.82
+Long Beach	Health and Beauty	563350.99
+Long Beach	Men's Clothing	556596.49
+Long Beach	Music	551478.4
+Long Beach	Pet Supplies	570094.32
+Long Beach	Sporting Goods	540827.97
+Long Beach	Toys	532488.05
+Long Beach	Video Games	568537.49
+Long Beach	Women's Clothing	554868.17
+Los Angeles	Baby	556489.75
+Los Angeles	Books	536836.44
+Los Angeles	Cameras	563074.82
+Los Angeles	CDs	540094.2
+Los Angeles	Children's Clothing	574671.85
+Los Angeles	Computers	537561.4
+Los Angeles	Consumer Electronics	568667.94
+Los Angeles	Crafts	565464.26
+Los Angeles	DVDs	555149.59
+Los Angeles	Garden	574743.71
+Los Angeles	Health and Beauty	551474.4
+Los Angeles	Men's Clothing	574007.63
+Los Angeles	Music	568450.3
+Los Angeles	Pet Supplies	550415.45
+Los Angeles	Sporting Goods	575902.48
+Los Angeles	Toys	551011.76
+Los Angeles	Video Games	579165.68
+Los Angeles	Women's Clothing	561395.14
+Louisville	Baby	572974.91
+Louisville	Books	543564.53
+Louisville	Cameras	545452.29
+Louisville	CDs	539694.39
+Louisville	Children's Clothing	558057.61
+Louisville	Computers	574471.54
+Louisville	Consumer Electronics	556245.68
+Louisville	Crafts	567636.31
+Louisville	DVDs	553554.6
+Louisville	Garden	536326.5
+Louisville	Health and Beauty	563292.77
+Louisville	Men's Clothing	548254.18
+Louisville	Music	552818.6
+Louisville	Pet Supplies	553356.2
+Louisville	Sporting Goods	559703.02
+Louisville	Toys	551163.81
+Louisville	Video Games	580962.73
+Louisville	Women's Clothing	551036.8
+Lubbock	Baby	557132.09
+Lubbock	Books	561474.78
+Lubbock	Cameras	550484.86
+Lubbock	CDs	521722.76
+Lubbock	Children's Clothing	573323.58
+Lubbock	Computers	540730.38
+Lubbock	Consumer Electronics	529143.8
+Lubbock	Crafts	553848.71
+Lubbock	DVDs	550027.92
+Lubbock	Garden	558539.6
+Lubbock	Health and Beauty	555502.53
+Lubbock	Men's Clothing	563259.01
+Lubbock	Music	557452.47
+Lubbock	Pet Supplies	559848.21
+Lubbock	Sporting Goods	564745.73
+Lubbock	Toys	554299.38
+Lubbock	Video Games	555743.92
+Lubbock	Women's Clothing	550839.42
+Madison	Baby	571275.66
+Madison	Books	546483.63
+Madison	Cameras	542371.56
+Madison	CDs	542153.61
+Madison	Children's Clothing	573118.36
+Madison	Computers	545097.65
+Madison	Consumer Electronics	528625.04
+Madison	Crafts	565259.65
+Madison	DVDs	565041.0
+Madison	Garden	564835.74
+Madison	Health and Beauty	555777.34
+Madison	Men's Clothing	555938.96
+Madison	Music	581608.74
+Madison	Pet Supplies	546135.8
+Madison	Sporting Goods	575333.33
+Madison	Toys	567427.92
+Madison	Video Games	558496.61
+Madison	Women's Clothing	547054.94
+Memphis	Baby	576262.41
+Memphis	Books	555482.14
+Memphis	Cameras	553237.55
+Memphis	CDs	569805.25
+Memphis	Children's Clothing	569838.58
+Memphis	Computers	553299.5
+Memphis	Consumer Electronics	570095.5
+Memphis	Crafts	540511.92
+Memphis	DVDs	552128.5
+Memphis	Garden	558666.73
+Memphis	Health and Beauty	550861.04
+Memphis	Men's Clothing	544413.65
+Memphis	Music	553982.54
+Memphis	Pet Supplies	560737.04
+Memphis	Sporting Goods	556488.34
+Memphis	Toys	549536.23
+Memphis	Video Games	554929.73
+Memphis	Women's Clothing	568288.67
+Mesa	Baby	552081.15
+Mesa	Books	567806.88
+Mesa	Cameras	553626.33
+Mesa	CDs	537986.69
+Mesa	Children's Clothing	541634.97
+Mesa	Computers	568891.02
+Mesa	Consumer Electronics	556188.19
+Mesa	Crafts	563237.61
+Mesa	DVDs	553006.98
+Mesa	Garden	551501.36
+Mesa	Health and Beauty	554112.44
+Mesa	Men's Clothing	575801.42
+Mesa	Music	547258.12
+Mesa	Pet Supplies	543028.01
+Mesa	Sporting Goods	560472.44
+Mesa	Toys	591139.41
+Mesa	Video Games	563001.31
+Mesa	Women's Clothing	572868.27
+Miami	Baby	557255.93
+Miami	Books	560728.36
+Miami	Cameras	572410.78
+Miami	CDs	544476.95
+Miami	Children's Clothing	555240.51
+Miami	Computers	569512.34
+Miami	Consumer Electronics	559997.3
+Miami	Crafts	546165.56
+Miami	DVDs	537531.19
+Miami	Garden	537356.89
+Miami	Health and Beauty	563405.93
+Miami	Men's Clothing	545597.63
+Miami	Music	551547.5
+Miami	Pet Supplies	560314.32
+Miami	Sporting Goods	529783.12
+Miami	Toys	539999.98
+Miami	Video Games	561147.47
+Miami	Women's Clothing	554844.31
+Milwaukee	Baby	541785.66
+Milwaukee	Books	567336.35
+Milwaukee	Cameras	561208.46
+Milwaukee	CDs	558686.5
+Milwaukee	Children's Clothing	568375.27
+Milwaukee	Computers	579109.15
+Milwaukee	Consumer Electronics	561786.13
+Milwaukee	Crafts	540328.11
+Milwaukee	DVDs	554545.99
+Milwaukee	Garden	566773.13
+Milwaukee	Health and Beauty	540748.5
+Milwaukee	Men's Clothing	543398.18
+Milwaukee	Music	564382.66
+Milwaukee	Pet Supplies	545249.76
+Milwaukee	Sporting Goods	561324.58
+Milwaukee	Toys	578834.56
+Milwaukee	Video Games	566621.04
+Milwaukee	Women's Clothing	563988.62
+Minneapolis	Baby	564201.43
+Minneapolis	Books	535086.43
+Minneapolis	Cameras	553007.0
+Minneapolis	CDs	565204.21
+Minneapolis	Children's Clothing	557647.77
+Minneapolis	Computers	560835.15
+Minneapolis	Consumer Electronics	541472.68
+Minneapolis	Crafts	545762.74
+Minneapolis	DVDs	565121.36
+Minneapolis	Garden	536201.73
+Minneapolis	Health and Beauty	553805.38
+Minneapolis	Men's Clothing	565093.88
+Minneapolis	Music	552401.43
+Minneapolis	Pet Supplies	570170.13
+Minneapolis	Sporting Goods	570654.18
+Minneapolis	Toys	554543.2
+Minneapolis	Video Games	569230.32
+Minneapolis	Women's Clothing	551318.76
+Nashville	Baby	549066.73
+Nashville	Books	552075.59
+Nashville	Cameras	532217.72
+Nashville	CDs	565211.98
+Nashville	Children's Clothing	535027.67
+Nashville	Computers	550321.58
+Nashville	Consumer Electronics	570974.19
+Nashville	Crafts	543792.22
+Nashville	DVDs	552015.16
+Nashville	Garden	553602.21
+Nashville	Health and Beauty	539988.18
+Nashville	Men's Clothing	563289.77
+Nashville	Music	586214.3
+Nashville	Pet Supplies	559398.1
+Nashville	Sporting Goods	545254.93
+Nashville	Toys	555792.56
+Nashville	Video Games	555138.14
+Nashville	Women's Clothing	552069.48
+Newark	Baby	563510.38
+Newark	Books	567969.37
+Newark	Cameras	545941.41
+Newark	CDs	564879.4
+Newark	Children's Clothing	575107.2
+Newark	Computers	556861.85
+Newark	Consumer Electronics	552068.51
+Newark	Crafts	559960.38
+Newark	DVDs	578714.86
+Newark	Garden	581622.13
+Newark	Health and Beauty	556985.96
+Newark	Men's Clothing	541435.39
+Newark	Music	562635.07
+Newark	Pet Supplies	570779.6
+Newark	Sporting Goods	572443.32
+Newark	Toys	569969.37
+Newark	Video Games	540902.21
+Newark	Women's Clothing	582266.39
+New Orleans	Baby	524006.42
+New Orleans	Books	554813.17
+New Orleans	Cameras	574820.69
+New Orleans	CDs	542517.22
+New Orleans	Children's Clothing	569670.92
+New Orleans	Computers	558909.57
+New Orleans	Consumer Electronics	552577.48
+New Orleans	Crafts	539336.76
+New Orleans	DVDs	555583.0
+New Orleans	Garden	563941.27
+New Orleans	Health and Beauty	558232.12
+New Orleans	Men's Clothing	548963.09
+New Orleans	Music	540833.26
+New Orleans	Pet Supplies	540442.54
+New Orleans	Sporting Goods	580495.63
+New Orleans	Toys	558703.27
+New Orleans	Video Games	529388.44
+New Orleans	Women's Clothing	556022.9
+New York	Baby	560244.55
+New York	Books	568218.45
+New York	Cameras	544784.81
+New York	CDs	575859.47
+New York	Children's Clothing	569704.71
+New York	Computers	563381.68
+New York	Consumer Electronics	552535.22
+New York	Crafts	544881.16
+New York	DVDs	592393.19
+New York	Garden	553550.14
+New York	Health and Beauty	572015.62
+New York	Men's Clothing	564517.04
+New York	Music	533874.41
+New York	Pet Supplies	575516.39
+New York	Sporting Goods	575753.93
+New York	Toys	557796.79
+New York	Video Games	556285.17
+New York	Women's Clothing	523980.82
+Norfolk	Baby	570934.16
+Norfolk	Books	559971.85
+Norfolk	Cameras	579674.25
+Norfolk	CDs	558355.03
+Norfolk	Children's Clothing	556734.55
+Norfolk	Computers	569882.47
+Norfolk	Consumer Electronics	578026.79
+Norfolk	Crafts	573768.23
+Norfolk	DVDs	560159.53
+Norfolk	Garden	542023.79
+Norfolk	Health and Beauty	561140.93
+Norfolk	Men's Clothing	572774.96
+Norfolk	Music	539774.2
+Norfolk	Pet Supplies	564103.22
+Norfolk	Sporting Goods	568633.41
+Norfolk	Toys	554941.08
+Norfolk	Video Games	548401.04
+Norfolk	Women's Clothing	529263.68
+North Las Vegas	Baby	557730.7
+North Las Vegas	Books	556372.01
+North Las Vegas	Cameras	567571.03
+North Las Vegas	CDs	551807.54
+North Las Vegas	Children's Clothing	564924.22
+North Las Vegas	Computers	573395.4
+North Las Vegas	Consumer Electronics	576064.82
+North Las Vegas	Crafts	570371.72
+North Las Vegas	DVDs	560214.26
+North Las Vegas	Garden	565354.52
+North Las Vegas	Health and Beauty	530023.24
+North Las Vegas	Men's Clothing	570088.08
+North Las Vegas	Music	548295.11
+North Las Vegas	Pet Supplies	564666.75
+North Las Vegas	Sporting Goods	557211.32
+North Las Vegas	Toys	545069.75
+North Las Vegas	Video Games	534641.61
+North Las Vegas	Women's Clothing	535850.43
+Oakland	Baby	552099.14
+Oakland	Books	553535.58
+Oakland	Cameras	561923.35
+Oakland	CDs	548380.43
+Oakland	Children's Clothing	532793.59
+Oakland	Computers	548987.71
+Oakland	Consumer Electronics	564934.69
+Oakland	Crafts	554878.02
+Oakland	DVDs	548966.96
+Oakland	Garden	539030.31
+Oakland	Health and Beauty	544418.65
+Oakland	Men's Clothing	573506.34
+Oakland	Music	568595.36
+Oakland	Pet Supplies	540064.31
+Oakland	Sporting Goods	548487.59
+Oakland	Toys	550757.95
+Oakland	Video Games	555954.72
+Oakland	Women's Clothing	559977.82
+Oklahoma City	Baby	566239.87
+Oklahoma City	Books	567979.14
+Oklahoma City	Cameras	567763.06
+Oklahoma City	CDs	572983.08
+Oklahoma City	Children's Clothing	538104.24
+Oklahoma City	Computers	547836.1
+Oklahoma City	Consumer Electronics	569804.06
+Oklahoma City	Crafts	557919.98
+Oklahoma City	DVDs	566174.28
+Oklahoma City	Garden	572536.8
+Oklahoma City	Health and Beauty	562444.41
+Oklahoma City	Men's Clothing	565122.01
+Oklahoma City	Music	558815.96
+Oklahoma City	Pet Supplies	558380.98
+Oklahoma City	Sporting Goods	565827.21
+Oklahoma City	Toys	562099.79
+Oklahoma City	Video Games	558382.6
+Oklahoma City	Women's Clothing	560572.68
+Omaha	Baby	566837.4
+Omaha	Books	548176.08
+Omaha	Cameras	550905.88
+Omaha	CDs	548955.96
+Omaha	Children's Clothing	571331.52
+Omaha	Computers	547717.06
+Omaha	Consumer Electronics	545793.11
+Omaha	Crafts	545202.6
+Omaha	DVDs	542642.69
+Omaha	Garden	565116.11
+Omaha	Health and Beauty	551532.39
+Omaha	Men's Clothing	552433.07
+Omaha	Music	546107.49
+Omaha	Pet Supplies	565764.94
+Omaha	Sporting Goods	597021.31
+Omaha	Toys	556581.27
+Omaha	Video Games	564646.68
+Omaha	Women's Clothing	559876.78
+Orlando	Baby	564724.26
+Orlando	Books	559209.83
+Orlando	Cameras	577227.43
+Orlando	CDs	557032.5
+Orlando	Children's Clothing	565027.05
+Orlando	Computers	584055.46
+Orlando	Consumer Electronics	544398.51
+Orlando	Crafts	559782.33
+Orlando	DVDs	558205.75
+Orlando	Garden	551732.68
+Orlando	Health and Beauty	569581.53
+Orlando	Men's Clothing	568035.49
+Orlando	Music	551024.61
+Orlando	Pet Supplies	552656.06
+Orlando	Sporting Goods	556454.11
+Orlando	Toys	518611.81
+Orlando	Video Games	573175.93
+Orlando	Women's Clothing	563987.18
+Philadelphia	Baby	594293.3
+Philadelphia	Books	570659.52
+Philadelphia	Cameras	560808.38
+Philadelphia	CDs	562642.96
+Philadelphia	Children's Clothing	579958.94
+Philadelphia	Computers	569146.26
+Philadelphia	Consumer Electronics	554945.58
+Philadelphia	Crafts	555307.01
+Philadelphia	DVDs	546608.96
+Philadelphia	Garden	547851.14
+Philadelphia	Health and Beauty	570175.39
+Philadelphia	Men's Clothing	558558.67
+Philadelphia	Music	582448.82
+Philadelphia	Pet Supplies	570417.29
+Philadelphia	Sporting Goods	566891.97
+Philadelphia	Toys	565225.27
+Philadelphia	Video Games	580523.83
+Philadelphia	Women's Clothing	553616.97
+Phoenix	Baby	557379.81
+Phoenix	Books	565402.68
+Phoenix	Cameras	573451.12
+Phoenix	CDs	542342.21
+Phoenix	Children's Clothing	598207.68
+Phoenix	Computers	549451.88
+Phoenix	Consumer Electronics	548123.18
+Phoenix	Crafts	546971.75
+Phoenix	DVDs	559413.8
+Phoenix	Garden	576118.61
+Phoenix	Health and Beauty	544702.25
+Phoenix	Men's Clothing	553412.72
+Phoenix	Music	548437.45
+Phoenix	Pet Supplies	557531.17
+Phoenix	Sporting Goods	556564.87
+Phoenix	Toys	572297.92
+Phoenix	Video Games	564656.14
+Phoenix	Women's Clothing	564611.46
+Pittsburgh	Baby	576924.32
+Pittsburgh	Books	583766.37
+Pittsburgh	Cameras	570495.46
+Pittsburgh	CDs	579264.92
+Pittsburgh	Children's Clothing	570451.58
+Pittsburgh	Computers	560517.1
+Pittsburgh	Consumer Electronics	531179.71
+Pittsburgh	Crafts	583442.28
+Pittsburgh	DVDs	552601.61
+Pittsburgh	Garden	525680.92
+Pittsburgh	Health and Beauty	551985.06
+Pittsburgh	Men's Clothing	531323.73
+Pittsburgh	Music	574147.85
+Pittsburgh	Pet Supplies	544603.09
+Pittsburgh	Sporting Goods	549207.19
+Pittsburgh	Toys	556774.81
+Pittsburgh	Video Games	577675.68
+Pittsburgh	Women's Clothing	570083.14
+Plano	Baby	558578.53
+Plano	Books	554708.8
+Plano	Cameras	548115.33
+Plano	CDs	571956.63
+Plano	Children's Clothing	581757.28
+Plano	Computers	554259.37
+Plano	Consumer Electronics	552327.62
+Plano	Crafts	552491.79
+Plano	DVDs	558620.92
+Plano	Garden	539160.36
+Plano	Health and Beauty	566516.77
+Plano	Men's Clothing	560325.07
+Plano	Music	582237.07
+Plano	Pet Supplies	559150.75
+Plano	Sporting Goods	555587.9
+Plano	Toys	542282.4
+Plano	Video Games	536715.94
+Plano	Women's Clothing	571311.08
+Portland	Baby	561156.42
+Portland	Books	570346.83
+Portland	Cameras	566824.54
+Portland	CDs	552929.57
+Portland	Children's Clothing	560899.17
+Portland	Computers	561983.19
+Portland	Consumer Electronics	535810.91
+Portland	Crafts	565077.68
+Portland	DVDs	569972.14
+Portland	Garden	555320.15
+Portland	Health and Beauty	547040.12
+Portland	Men's Clothing	540455.16
+Portland	Music	553879.41
+Portland	Pet Supplies	550637.87
+Portland	Sporting Goods	558265.61
+Portland	Toys	569657.49
+Portland	Video Games	534758.63
+Portland	Women's Clothing	552620.88
+Raleigh	Baby	574790.15
+Raleigh	Books	568269.96
+Raleigh	Cameras	543113.71
+Raleigh	CDs	563359.49
+Raleigh	Children's Clothing	545108.79
+Raleigh	Computers	543863.01
+Raleigh	Consumer Electronics	557022.12
+Raleigh	Crafts	544525.27
+Raleigh	DVDs	574831.59
+Raleigh	Garden	568334.85
+Raleigh	Health and Beauty	556901.45
+Raleigh	Men's Clothing	561880.11
+Raleigh	Music	559916.94
+Raleigh	Pet Supplies	573222.71
+Raleigh	Sporting Goods	580829.13
+Raleigh	Toys	555384.29
+Raleigh	Video Games	547834.76
+Raleigh	Women's Clothing	542254.21
+Reno	Baby	555616.13
+Reno	Books	558219.91
+Reno	Cameras	569200.42
+Reno	CDs	578683.13
+Reno	Children's Clothing	570010.26
+Reno	Computers	549890.44
+Reno	Consumer Electronics	537899.05
+Reno	Crafts	565030.26
+Reno	DVDs	564054.23
+Reno	Garden	554297.8
+Reno	Health and Beauty	562262.46
+Reno	Men's Clothing	534667.94
+Reno	Music	564105.59
+Reno	Pet Supplies	570200.95
+Reno	Sporting Goods	559522.18
+Reno	Toys	547701.61
+Reno	Video Games	564045.24
+Reno	Women's Clothing	574547.56
+Richmond	Baby	574139.03
+Richmond	Books	565113.74
+Richmond	Cameras	546376.7
+Richmond	CDs	560050.59
+Richmond	Children's Clothing	559218.25
+Richmond	Computers	541635.23
+Richmond	Consumer Electronics	554363.92
+Richmond	Crafts	541356.71
+Richmond	DVDs	555959.56
+Richmond	Garden	549762.21
+Richmond	Health and Beauty	570608.17
+Richmond	Men's Clothing	565733.04
+Richmond	Music	581773.54
+Richmond	Pet Supplies	537160.56
+Richmond	Sporting Goods	537944.19
+Richmond	Toys	555062.59
+Richmond	Video Games	532612.95
+Richmond	Women's Clothing	564070.61
+Riverside	Baby	544323.89
+Riverside	Books	557846.05
+Riverside	Cameras	556066.46
+Riverside	CDs	542000.24
+Riverside	Children's Clothing	572979.71
+Riverside	Computers	572931.72
+Riverside	Consumer Electronics	560357.29
+Riverside	Crafts	580443.17
+Riverside	DVDs	535731.31
+Riverside	Garden	544596.11
+Riverside	Health and Beauty	537673.48
+Riverside	Men's Clothing	557059.45
+Riverside	Music	547824.49
+Riverside	Pet Supplies	531696.83
+Riverside	Sporting Goods	555140.81
+Riverside	Toys	567477.0
+Riverside	Video Games	579177.92
+Riverside	Women's Clothing	563369.49
+Rochester	Baby	550966.34
+Rochester	Books	551096.32
+Rochester	Cameras	572643.18
+Rochester	CDs	560088.91
+Rochester	Children's Clothing	566775.63
+Rochester	Computers	577057.95
+Rochester	Consumer Electronics	557368.97
+Rochester	Crafts	570403.37
+Rochester	DVDs	557203.15
+Rochester	Garden	560764.56
+Rochester	Health and Beauty	537706.76
+Rochester	Men's Clothing	568939.84
+Rochester	Music	553700.31
+Rochester	Pet Supplies	544807.64
+Rochester	Sporting Goods	558293.19
+Rochester	Toys	543073.09
+Rochester	Video Games	572735.25
+Rochester	Women's Clothing	563982.46
+Sacramento	Baby	564184.15
+Sacramento	Books	545419.55
+Sacramento	Cameras	556280.49
+Sacramento	CDs	564380.64
+Sacramento	Children's Clothing	571088.91
+Sacramento	Computers	566001.11
+Sacramento	Consumer Electronics	573133.85
+Sacramento	Crafts	556887.65
+Sacramento	DVDs	547678.56
+Sacramento	Garden	571744.32
+Sacramento	Health and Beauty	564764.95
+Sacramento	Men's Clothing	557214.63
+Sacramento	Music	576862.36
+Sacramento	Pet Supplies	570416.21
+Sacramento	Sporting Goods	557822.72
+Sacramento	Toys	550078.56
+Sacramento	Video Games	556071.34
+Sacramento	Women's Clothing	573438.18
+Saint Paul	Baby	571235.51
+Saint Paul	Books	550942.2
+Saint Paul	Cameras	567041.78
+Saint Paul	CDs	560196.19
+Saint Paul	Children's Clothing	574122.66
+Saint Paul	Computers	573613.37
+Saint Paul	Consumer Electronics	566938.65
+Saint Paul	Crafts	553271.98
+Saint Paul	DVDs	538676.62
+Saint Paul	Garden	544760.98
+Saint Paul	Health and Beauty	576360.66
+Saint Paul	Men's Clothing	572008.06
+Saint Paul	Music	522068.06
+Saint Paul	Pet Supplies	565491.36
+Saint Paul	Sporting Goods	571837.16
+Saint Paul	Toys	557717.61
+Saint Paul	Video Games	555441.38
+Saint Paul	Women's Clothing	535509.34
+San Antonio	Baby	562683.33
+San Antonio	Books	552565.69
+San Antonio	Cameras	586126.62
+San Antonio	CDs	540953.33
+San Antonio	Children's Clothing	543925.63
+San Antonio	Computers	540733.05
+San Antonio	Consumer Electronics	552829.6
+San Antonio	Crafts	551437.32
+San Antonio	DVDs	546646.8
+San Antonio	Garden	564372.33
+San Antonio	Health and Beauty	553621.68
+San Antonio	Men's Clothing	550742.85
+San Antonio	Music	559497.28
+San Antonio	Pet Supplies	555020.31
+San Antonio	Sporting Goods	550324.51
+San Antonio	Toys	572062.71
+San Antonio	Video Games	567535.49
+San Antonio	Women's Clothing	563363.17
+San Bernardino	Baby	549078.79
+San Bernardino	Books	557236.08
+San Bernardino	Cameras	548214.22
+San Bernardino	CDs	558297.25
+San Bernardino	Children's Clothing	542853.63
+San Bernardino	Computers	554901.06
+San Bernardino	Consumer Electronics	558324.34
+San Bernardino	Crafts	567209.99
+San Bernardino	DVDs	531521.95
+San Bernardino	Garden	570659.67
+San Bernardino	Health and Beauty	550052.39
+San Bernardino	Men's Clothing	568396.33
+San Bernardino	Music	556267.68
+San Bernardino	Pet Supplies	552451.62
+San Bernardino	Sporting Goods	559562.28
+San Bernardino	Toys	550409.21
+San Bernardino	Video Games	554463.25
+San Bernardino	Women's Clothing	535252.3
+San Diego	Baby	540381.5
+San Diego	Books	564453.04
+San Diego	Cameras	555861.65
+San Diego	CDs	537076.89
+San Diego	Children's Clothing	541053.93
+San Diego	Computers	571435.34
+San Diego	Consumer Electronics	542462.48
+San Diego	Crafts	547362.06
+San Diego	DVDs	561683.8
+San Diego	Garden	557525.46
+San Diego	Health and Beauty	554304.61
+San Diego	Men's Clothing	580012.35
+San Diego	Music	553940.68
+San Diego	Pet Supplies	533319.07
+San Diego	Sporting Goods	549411.35
+San Diego	Toys	570269.21
+San Diego	Video Games	551891.04
+San Diego	Women's Clothing	553593.93
+San Francisco	Baby	561932.9
+San Francisco	Books	562369.73
+San Francisco	Cameras	560390.92
+San Francisco	CDs	542682.95
+San Francisco	Children's Clothing	539906.23
+San Francisco	Computers	558995.43
+San Francisco	Consumer Electronics	555943.93
+San Francisco	Crafts	565233.34
+San Francisco	DVDs	568633.1
+San Francisco	Garden	538301.08
+San Francisco	Health and Beauty	571250.86
+San Francisco	Men's Clothing	565414.36
+San Francisco	Music	536450.26
+San Francisco	Pet Supplies	546266.71
+San Francisco	Sporting Goods	562441.47
+San Francisco	Toys	560146.47
+San Francisco	Video Games	544087.93
+San Francisco	Women's Clothing	555122.87
+San Jose	Baby	566853.52
+San Jose	Books	522989.8
+San Jose	Cameras	527568.34
+San Jose	CDs	586499.67
+San Jose	Children's Clothing	549454.24
+San Jose	Computers	561784.7
+San Jose	Consumer Electronics	556462.07
+San Jose	Crafts	548947.01
+San Jose	DVDs	569417.19
+San Jose	Garden	559343.91
+San Jose	Health and Beauty	553600.19
+San Jose	Men's Clothing	551148.62
+San Jose	Music	550085.76
+San Jose	Pet Supplies	540508.12
+San Jose	Sporting Goods	540678.41
+San Jose	Toys	537849.78
+San Jose	Video Games	573047.92
+San Jose	Women's Clothing	540482.16
+Santa Ana	Baby	564323.11
+Santa Ana	Books	559306.97
+Santa Ana	Cameras	573808.11
+Santa Ana	CDs	580647.76
+Santa Ana	Children's Clothing	545351.31
+Santa Ana	Computers	551901.59
+Santa Ana	Consumer Electronics	541798.14
+Santa Ana	Crafts	557565.29
+Santa Ana	DVDs	559208.31
+Santa Ana	Garden	560039.26
+Santa Ana	Health and Beauty	553679.19
+Santa Ana	Men's Clothing	560594.83
+Santa Ana	Music	595318.8
+Santa Ana	Pet Supplies	560103.83
+Santa Ana	Sporting Goods	543679.11
+Santa Ana	Toys	569992.33
+Santa Ana	Video Games	543602.49
+Santa Ana	Women's Clothing	529389.5
+Scottsdale	Baby	554754.16
+Scottsdale	Books	568783.17
+Scottsdale	Cameras	526222.43
+Scottsdale	CDs	544008.51
+Scottsdale	Children's Clothing	589424.11
+Scottsdale	Computers	569664.4
+Scottsdale	Consumer Electronics	573862.49
+Scottsdale	Crafts	553538.67
+Scottsdale	DVDs	549561.72
+Scottsdale	Garden	565209.67
+Scottsdale	Health and Beauty	564572.42
+Scottsdale	Men's Clothing	549651.09
+Scottsdale	Music	542070.29
+Scottsdale	Pet Supplies	530174.12
+Scottsdale	Sporting Goods	566270.84
+Scottsdale	Toys	576535.76
+Scottsdale	Video Games	551610.31
+Scottsdale	Women's Clothing	562015.69
+Seattle	Baby	543805.33
+Seattle	Books	555186.98
+Seattle	Cameras	515364.99
+Seattle	CDs	571115.43
+Seattle	Children's Clothing	557571.87
+Seattle	Computers	556456.11
+Seattle	Consumer Electronics	541000.43
+Seattle	Crafts	527941.19
+Seattle	DVDs	563577.43
+Seattle	Garden	562699.68
+Seattle	Health and Beauty	584975.58
+Seattle	Men's Clothing	539347.78
+Seattle	Music	563556.51
+Seattle	Pet Supplies	560934.13
+Seattle	Sporting Goods	573323.12
+Seattle	Toys	550123.31
+Seattle	Video Games	523871.71
+Seattle	Women's Clothing	545415.79
+Spokane	Baby	559959.81
+Spokane	Books	548737.5
+Spokane	Cameras	549488.85
+Spokane	CDs	551143.7
+Spokane	Children's Clothing	581353.59
+Spokane	Computers	570754.03
+Spokane	Consumer Electronics	553697.99
+Spokane	Crafts	552265.77
+Spokane	DVDs	560432.64
+Spokane	Garden	563855.83
+Spokane	Health and Beauty	581101.52
+Spokane	Men's Clothing	572479.26
+Spokane	Music	555016.31
+Spokane	Pet Supplies	543546.11
+Spokane	Sporting Goods	567134.52
+Spokane	Toys	539720.64
+Spokane	Video Games	545472.12
+Spokane	Women's Clothing	587202.79
+St. Louis	Baby	534173.29
+St. Louis	Books	524539.89
+St. Louis	Cameras	526138.31
+St. Louis	CDs	554827.52
+St. Louis	Children's Clothing	538706.94
+St. Louis	Computers	573947.53
+St. Louis	Consumer Electronics	547362.16
+St. Louis	Crafts	558699.86
+St. Louis	DVDs	558196.15
+St. Louis	Garden	546994.3
+St. Louis	Health and Beauty	560978.97
+St. Louis	Men's Clothing	569098.93
+St. Louis	Music	554439.7
+St. Louis	Pet Supplies	582845.32
+St. Louis	Sporting Goods	570671.26
+St. Louis	Toys	572072.87
+St. Louis	Video Games	554931.95
+St. Louis	Women's Clothing	573480.19
+Stockton	Baby	565305.95
+Stockton	Books	541957.56
+Stockton	Cameras	553646.48
+Stockton	CDs	569572.19
+Stockton	Children's Clothing	553061.09
+Stockton	Computers	563904.68
+Stockton	Consumer Electronics	564629.06
+Stockton	Crafts	541164.61
+Stockton	DVDs	560032.12
+Stockton	Garden	571318.82
+Stockton	Health and Beauty	577786.35
+Stockton	Men's Clothing	558937.14
+Stockton	Music	523272.62
+Stockton	Pet Supplies	552919.15
+Stockton	Sporting Goods	550384.53
+Stockton	Toys	548644.71
+Stockton	Video Games	555014.36
+Stockton	Women's Clothing	554861.22
+St. Petersburg	Baby	560176.33
+St. Petersburg	Books	557233.49
+St. Petersburg	Cameras	587683.51
+St. Petersburg	CDs	543837.77
+St. Petersburg	Children's Clothing	542430.17
+St. Petersburg	Computers	545394.71
+St. Petersburg	Consumer Electronics	560747.31
+St. Petersburg	Crafts	541405.58
+St. Petersburg	DVDs	534123.11
+St. Petersburg	Garden	547970.46
+St. Petersburg	Health and Beauty	558252.45
+St. Petersburg	Men's Clothing	550801.2
+St. Petersburg	Music	539039.08
+St. Petersburg	Pet Supplies	538384.45
+St. Petersburg	Sporting Goods	604041.54
+St. Petersburg	Toys	569537.23
+St. Petersburg	Video Games	543613.49
+St. Petersburg	Women's Clothing	561823.66
+Tampa	Baby	551575.64
+Tampa	Books	553318.91
+Tampa	Cameras	567378.26
+Tampa	CDs	565881.65
+Tampa	Children's Clothing	534033.91
+Tampa	Computers	541995.57
+Tampa	Consumer Electronics	572200.52
+Tampa	Crafts	547880.68
+Tampa	DVDs	593299.1
+Tampa	Garden	564065.3
+Tampa	Health and Beauty	573476.61
+Tampa	Men's Clothing	549088.32
+Tampa	Music	557999.5
+Tampa	Pet Supplies	553705.23
+Tampa	Sporting Goods	562666.36
+Tampa	Toys	571330.12
+Tampa	Video Games	566533.09
+Tampa	Women's Clothing	579999.78
+Toledo	Baby	558517.33
+Toledo	Books	568391.78
+Toledo	Cameras	552450.8
+Toledo	CDs	546922.2
+Toledo	Children's Clothing	552462.88
+Toledo	Computers	544327.82
+Toledo	Consumer Electronics	559446.6
+Toledo	Crafts	564632.52
+Toledo	DVDs	568140.18
+Toledo	Garden	559355.31
+Toledo	Health and Beauty	570994.03
+Toledo	Men's Clothing	557424.63
+Toledo	Music	560022.5
+Toledo	Pet Supplies	546040.3
+Toledo	Sporting Goods	553902.01
+Toledo	Toys	547446.05
+Toledo	Video Games	576339.2
+Toledo	Women's Clothing	533952.74
+Tucson	Baby	546719.13
+Tucson	Books	548343.67
+Tucson	Cameras	550221.5
+Tucson	CDs	542528.07
+Tucson	Children's Clothing	548126.39
+Tucson	Computers	542794.03
+Tucson	Consumer Electronics	543221.85
+Tucson	Crafts	564830.12
+Tucson	DVDs	572861.1
+Tucson	Garden	558583.86
+Tucson	Health and Beauty	556133.03
+Tucson	Men's Clothing	554779.33
+Tucson	Music	554053.97
+Tucson	Pet Supplies	568716.08
+Tucson	Sporting Goods	568153.91
+Tucson	Toys	565360.59
+Tucson	Video Games	553684.66
+Tucson	Women's Clothing	559141.18
+Tulsa	Baby	563448.04
+Tulsa	Books	567503.5
+Tulsa	Cameras	566306.95
+Tulsa	CDs	558419.46
+Tulsa	Children's Clothing	570904.68
+Tulsa	Computers	531738.85
+Tulsa	Consumer Electronics	539061.45
+Tulsa	Crafts	547117.85
+Tulsa	DVDs	560081.03
+Tulsa	Garden	572994.63
+Tulsa	Health and Beauty	549377.84
+Tulsa	Men's Clothing	553587.04
+Tulsa	Music	575289.51
+Tulsa	Pet Supplies	547048.7
+Tulsa	Sporting Goods	562910.83
+Tulsa	Toys	556043.86
+Tulsa	Video Games	575092.18
+Tulsa	Women's Clothing	568029.5
+Virginia Beach	Baby	547402.01
+Virginia Beach	Books	559928.57
+Virginia Beach	Cameras	560642.04
+Virginia Beach	CDs	550261.04
+Virginia Beach	Children's Clothing	590931.82
+Virginia Beach	Computers	519987.28
+Virginia Beach	Consumer Electronics	557723.11
+Virginia Beach	Crafts	553562.64
+Virginia Beach	DVDs	537740.85
+Virginia Beach	Garden	546201.98
+Virginia Beach	Health and Beauty	581053.17
+Virginia Beach	Men's Clothing	554538.32
+Virginia Beach	Music	578053.32
+Virginia Beach	Pet Supplies	552942.8
+Virginia Beach	Sporting Goods	578397.69
+Virginia Beach	Toys	572419.91
+Virginia Beach	Video Games	572533.08
+Virginia Beach	Women's Clothing	572233.87
+Washington	Baby	549507.58
+Washington	Books	561806.09
+Washington	Cameras	556400.31
+Washington	CDs	587423.01
+Washington	Children's Clothing	570206.24
+Washington	Computers	541042.67
+Washington	Consumer Electronics	586495.19
+Washington	Crafts	585438.54
+Washington	DVDs	543424.42
+Washington	Garden	563553.04
+Washington	Health and Beauty	576492.41
+Washington	Men's Clothing	560874.12
+Washington	Music	554382.27
+Washington	Pet Supplies	568336.08
+Washington	Sporting Goods	556261.56
+Washington	Toys	553912.98
+Washington	Video Games	577472.16
+Washington	Women's Clothing	546334.72
+Wichita	Baby	566904.83
+Wichita	Books	575898.78
+Wichita	Cameras	556963.2
+Wichita	CDs	587427.04
+Wichita	Children's Clothing	550208.95
+Wichita	Computers	562167.38
+Wichita	Consumer Electronics	568298.84
+Wichita	Crafts	568386.41
+Wichita	DVDs	548839.23
+Wichita	Garden	539549.94
+Wichita	Health and Beauty	554742.02
+Wichita	Men's Clothing	555086.66
+Wichita	Music	543159.53
+Wichita	Pet Supplies	563936.64
+Wichita	Sporting Goods	532610.06
+Wichita	Toys	581513.08
+Wichita	Video Games	571471.41
+Wichita	Women's Clothing	556479.21
+Winston–Salem	Baby	568440.97
+Winston–Salem	Books	536600.07
+Winston–Salem	Cameras	557902.56
+Winston–Salem	CDs	575919.37
+Winston–Salem	Children's Clothing	546706.31
+Winston–Salem	Computers	532508.21
+Winston–Salem	Consumer Electronics	583901.13
+Winston–Salem	Crafts	561871.07
+Winston–Salem	DVDs	581524.5
+Winston–Salem	Garden	539236.66
+Winston–Salem	Health and Beauty	557450.61
+Winston–Salem	Men's Clothing	548724.71
+Winston–Salem	Music	576957.32
+Winston–Salem	Pet Supplies	583362.3
+Winston–Salem	Sporting Goods	551543.37
+Winston–Salem	Toys	542906.37
+Winston–Salem	Video Games	550702.23
+Winston–Salem	Women's Clothing	547754.07
